@@ -9,3 +9,4 @@ mengapa dong
 - tlah berubah
 - taksepertidul
 - menemaniku
+- akhir
