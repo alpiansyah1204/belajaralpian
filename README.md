@@ -6,3 +6,4 @@ mengapa dong
 - aku
 - siapa
 - dia
+- tlah berubah
