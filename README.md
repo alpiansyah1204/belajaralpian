@@ -3,6 +3,6 @@
 mengapa dong
 mengapa dong
 --
--aku
--siapa
--dia
+- aku
+- siapa
+- dia
